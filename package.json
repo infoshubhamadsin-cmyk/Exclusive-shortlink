@@ -1,0 +1,8 @@
+{
+  "name": "exclusive-shortlink-api",
+  "version": "1.0.0",
+  "description": "Backend API for Exclusive ShortLink",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0"
+  }
+}
